@@ -1,6 +1,10 @@
 {
     "name": "node-travis",
     "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lumannnn/travis-ci"
+    },
     "devDependencies": {
         "grunt": "~0.4.1",
         "grunt-cli": "0.1.9",
